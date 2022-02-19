@@ -1,0 +1,122 @@
+[
+	{
+		"emp_ID": "7850",
+		"location": "Kirkos District",
+		"locationId": "14666",
+		"position": "Seferrian Branch.Branch Manager II",
+		"pr_Number": "",
+		"supervisorEmpId": "3302",
+		"supervisorID": "13686",
+		"supervisor_name": "Shemsu Bargicho Adem"
+	},
+	{
+		"emp_ID": "43879",
+		"location": "Seka Chekorsa Branch",
+		"locationId": "1927",
+		"position": "Seka Chekorsa Branch.Junior Officer",
+		"pr_Number": "+251932440351",
+		"supervisorEmpId": "9321",
+		"supervisorID": "24364",
+		"supervisor_name": "Dereje Bekele Tolesa"
+	},
+	{
+		"emp_ID": "17608",
+		"location": "Sekota Branch",
+		"locationId": "174",
+		"position": "Sekota Branch.Customer Relationship Officer",
+		"pr_Number": "+251911594632",
+		"supervisorEmpId": "9623",
+		"supervisorID": "25204",
+		"supervisor_name": "Birhanu Mengesha Ali"
+	},
+	{
+		"emp_ID": "42270",
+		"location": "Sekota Branch",
+		"locationId": "174",
+		"position": "Sekota Branch.Junior Officer",
+		"pr_Number": "",
+		"supervisorEmpId": "15450",
+		"supervisorID": "9872",
+		"supervisor_name": "Yohannes Dessie Girmay"
+	},
+	{
+		"emp_ID": "4842",
+		"location": "Kedemay Weyane Branch",
+		"locationId": "1455",
+		"position": "Kedemay Weyane Branch.Branch Manager I",
+		"pr_Number": "",
+		"supervisorEmpId": "4975",
+		"supervisorID": "14311",
+		"supervisor_name": "Ephrem Sewasew Worku"
+	},
+	{
+		"emp_ID": "10582",
+		"location": "Keffira Branch",
+		"locationId": "1945",
+		"position": "Keffira Branch.Branch Manager I",
+		"pr_Number": "0912691453",
+		"supervisorEmpId": "6440",
+		"supervisorID": "2661",
+		"supervisor_name": "Solomon Degaffe Damte"
+	},
+	{
+		"emp_ID": "12932",
+		"location": "Kelam Mechara Branch",
+		"locationId": "1946",
+		"position": "Kelam Mechara Branch.Branch Manager I",
+		"pr_Number": "+251913927759",
+		"supervisorEmpId": "9917",
+		"supervisorID": "22778",
+		"supervisor_name": "Chala Gemechu Merera"
+	},
+	{
+		"emp_ID": "48146",
+		"location": "Mehal Amba Branch",
+		"locationId": "1553",
+		"position": "Mehal Amba Branch.Junior Officer",
+		"pr_Number": "+251931891489",
+		"supervisorEmpId": "18409",
+		"supervisorID": "7574",
+		"supervisor_name": "Kenasa Negash Negera"
+	},
+	{
+		"emp_ID": "42348",
+		"location": "Mehal Bure Branch",
+		"locationId": "449",
+		"position": "Mehal Bure Branch.Junior Officer",
+		"pr_Number": "+251924206990",
+		"supervisorEmpId": "12620",
+		"supervisorID": "9495",
+		"supervisor_name": "Fekade Mitike Tesema"
+	},
+	{
+		"emp_ID": "45467",
+		"location": "Mehal Bure Branch",
+		"locationId": "449",
+		"position": "Mehal Bure Branch.Junior Officer",
+		"pr_Number": "+251918156868/+251930326961",
+		"supervisorEmpId": "12620",
+		"supervisorID": "9495",
+		"supervisor_name": "Fekade Mitike Tesema"
+	},
+	{
+		"emp_ID": "4341",
+		"location": "Mehal Gebeya Branch",
+		"locationId": "1653",
+		"position": "Mehal Gebeya Branch.Branch Manager IV",
+		"pr_Number": "+251913215354",
+		"supervisorEmpId": "5612",
+		"supervisorID": "12640",
+		"supervisor_name": "Girum Kebede Tewolde"
+	},
+	{
+		"emp_ID": "31713",
+		"location": "Mehal Gebeya Branch",
+		"locationId": "1653",
+		"position": "Mehal Gebeya Branch.Customer Relationship Officer",
+		"pr_Number": "",
+		"supervisorEmpId": "3578",
+		"supervisorID": "14255",
+		"supervisor_name": "Emebet Melese Zeleke"
+	}
+]
