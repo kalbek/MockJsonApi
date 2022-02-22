@@ -98,25 +98,5 @@
 		"supervisorEmpId": "12620",
 		"supervisorID": "9495",
 		"supervisor_name": "Fekade Mitike Tesema"
-	},
-	{
-		"emp_ID": "4341",
-		"location": "Mehal Gebeya Branch",
-		"locationId": "1653",
-		"position": "Mehal Gebeya Branch.Branch Manager IV",
-		"pr_Number": "+251913215354",
-		"supervisorEmpId": "5612",
-		"supervisorID": "12640",
-		"supervisor_name": "Girum Kebede Tewolde"
-	},
-	{
-		"emp_ID": "31713",
-		"location": "Mehal Gebeya Branch",
-		"locationId": "1653",
-		"position": "Mehal Gebeya Branch.Customer Relationship Officer",
-		"pr_Number": "",
-		"supervisorEmpId": "3578",
-		"supervisorID": "14255",
-		"supervisor_name": "Emebet Melese Zeleke"
 	}
 ]
