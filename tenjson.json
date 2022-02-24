@@ -1,8 +1,29 @@
 [
 	{
-		"emp_ID": "7850",
-		"location": "Kirkos District",
-		"locationId": "14666"
+		"emp_ID": "7850"
+	},
+	{
+		"emp_ID": "43879",
+		"location": "Seka Chekorsa Branch"
+	},
+	{
+		"emp_ID": "43879",
+		"location": "Seka Chekorsa Branch",
+		"locationId": "1927"
+	},
+	{
+		"emp_ID": "43879",
+		"location": "Seka Chekorsa Branch",
+		"locationId": "1927",
+		"position": "Seka Chekorsa Branch.Junior Officer"
+	},
+	{
+		"emp_ID": "43879",
+		"location": "Seka Chekorsa Branch",
+		"locationId": "1927",
+		"position": "Seka Chekorsa Branch.Junior Officer",
+		"pr_Number": "+251932440351",
+		"supervisorEmpId": "9321"
 	},
 	{
 		"emp_ID": "43879",
@@ -12,6 +33,7 @@
 		"pr_Number": "+251932440351",
 		"supervisorEmpId": "9321",
 		"supervisorID": "24364",
+		"supervisor_name": "Dereje Bekele Tolesa","supervisorID": "24364",
 		"supervisor_name": "Dereje Bekele Tolesa"
 	},
 	{
