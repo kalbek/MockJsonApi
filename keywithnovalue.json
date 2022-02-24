@@ -1,0 +1,30 @@
+[
+{
+		"emp_ID": "",
+		"location": "",
+		"locationId": "",
+		"position": "",
+		"pr_Number": "",
+		"supervisorEmpId": "",
+		"supervisorID": "",
+		"supervisor_name": ""
+	},
+	{
+		"emp_ID": "43879",
+		"location": "Seka Chekorsa Branch",
+		"locationId": "1927",
+		"position": "Seka Chekorsa Branch.Junior Officer",
+		"pr_Number": "+251932440351",
+		"supervisorEmpId": "9321",
+	},
+	{
+		"emp_ID": "17608",
+		"location": "Sekota Branch",
+		"locationId": "174",
+		"position": "Sekota Branch.Customer Relationship Officer",
+		"pr_Number": "+251911594632",
+		"supervisorEmpId": "9623",
+		"supervisorID": "25204",
+		"supervisor_name": "Birhanu Mengesha Ali"
+	}
+]
