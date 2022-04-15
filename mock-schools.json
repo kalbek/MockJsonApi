@@ -12,6 +12,7 @@
                         "student_name":"A1",
                         "student_sex":"M",
                         "student_grade":"1",
+                        "has_scholarship":true,
                         "student_section":"Aa" 
                     },
                     {
@@ -19,6 +20,7 @@
                         "student_name":"A2",
                         "student_sex":"M",
                         "student_grade":"2",
+                        "has_scholarship":false,
                         "student_section":"Ab" 
                     },
                     {
@@ -26,6 +28,7 @@
                         "student_name":"A3",
                         "student_sex":"M",
                         "student_grade":"3",
+                        "has_scholarship":false,
                         "student_section":"Ac" 
                     },
                     {
@@ -33,14 +36,32 @@
                         "student_name":"A4",
                         "student_sex":"M",
                         "student_grade":"4",
+                        "has_scholarship":false,
                         "student_section":"Ad" 
+                    }
+                ],
+                "grade_fees":[
+                    {
+                        "1":1000
+                    },
+                    {
+                        "2":1050
+                    },
+                    {
+                        "3":1100
+                    },
+                    {
+                        "4":1150
+                    },
+                    {
+                        "sch":0.95
                     }
                 ]
             },
             {
                 "school_id":"S002",
                 "school_name":"SchoolB",
-                "school_level":"Secondary",
+                "school_level":"Primary&Secondary",
                 "location":"Nazreth",
                 "students":[
                     {
@@ -48,6 +69,7 @@
                         "student_name":"B1",
                         "student_sex":"M",
                         "student_grade":"5",
+                        "has_scholarship":true,
                         "student_section":"Aa" 
                     },
                     {
@@ -55,6 +77,7 @@
                         "student_name":"B2",
                         "student_sex":"M",
                         "student_grade":"6",
+                        "has_scholarship":false,
                         "student_section":"Bb" 
                     },
                     {
@@ -62,6 +85,7 @@
                         "student_name":"B3",
                         "student_sex":"F",
                         "student_grade":"7",
+                        "has_scholarship":false,
                         "student_section":"Bc" 
                     },
                     {
@@ -69,14 +93,44 @@
                         "student_name":"B4",
                         "student_sex":"F",
                         "student_grade":"8",
+                        "has_scholarship":false,
                         "student_section":"Bd" 
+                    }
+                ],
+                "grade_fees":[
+                    {
+                        "1":1000
+                    },
+                    {
+                        "2":1050
+                    },
+                    {
+                        "3":1100
+                    },
+                    {
+                        "4":1150
+                    },
+                    {
+                        "5":2000
+                    },
+                    {
+                        "6":2050
+                    },
+                    {
+                        "7":2100
+                    },
+                    {
+                        "8":2150
+                    },
+                    {
+                        "sch":0.85
                     }
                 ]
             },
             {
                 "school_id":"S003",
                 "school_name":"SchoolC",
-                "school_level":"High_School",
+                "school_level":"PrimarySecondary&HighSchool",
                 "location":"BaharDar",
                 "students":[
                     {
@@ -84,6 +138,7 @@
                         "student_name":"C1",
                         "student_sex":"M",
                         "student_grade":"9",
+                        "has_scholarship":true,
                         "student_section":"Ca" 
                     },
                     {
@@ -91,6 +146,7 @@
                         "student_name":"C2",
                         "student_sex":"M",
                         "student_grade":"10",
+                        "has_scholarship":false,
                         "student_section":"Cb" 
                     },
                     {
@@ -98,6 +154,7 @@
                         "student_name":"C3",
                         "student_sex":"F",
                         "student_grade":"11",
+                        "has_scholarship":false,
                         "student_section":"Cc" 
                     },
                     {
@@ -105,7 +162,49 @@
                         "student_name":"C4",
                         "student_sex":"F",
                         "student_grade":"12",
+                        "has_scholarship":false,
                         "student_section":"Cd" 
+                    }
+                ],
+                "grade_fees":[
+                    {
+                        "1":1000
+                    },
+                    {
+                        "2":1050
+                    },
+                    {
+                        "3":1100
+                    },
+                    {
+                        "4":1150
+                    },
+                    {
+                        "5":2000
+                    },
+                    {
+                        "6":2050
+                    },
+                    {
+                        "7":2100
+                    },
+                    {
+                        "8":2150
+                    },
+                    {
+                        "9":3000
+                    },
+                    {
+                        "10":3050
+                    },
+                    {
+                        "11":3100
+                    },
+                    {
+                        "12":3150
+                    },
+                    {
+                        "sch":0.80
                     }
                 ]
             }
